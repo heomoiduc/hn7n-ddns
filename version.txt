@@ -1,2 +1,2 @@
 all=1
-VuonNhan=2 firmware_v2.bin
+VuonNhan=3 firmware_v3.bin
